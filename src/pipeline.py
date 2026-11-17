@@ -120,6 +120,7 @@ TIPOS_CONFIABLES = [
     "numpy.dtype",
     "sklearn.ensemble._hist_gradient_boosting.predictor.TreePredictor",
     "sklearn.tree._tree.Tree",
+    "sklearn.neural_network._stochastic_optimizers.AdamOptimizer",
 ]
 
 def configurar_mlflow() -> None:
