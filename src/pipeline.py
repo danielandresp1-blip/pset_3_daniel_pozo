@@ -115,7 +115,12 @@ TRACKING_URI = "http://localhost:5000"
 EXPERIMENTO = "rossmann"
 TABLA_ORIGEN = "PSET2_ROSSMANN.OBT.OBT_SALES_DAILY"
 SEMILLA = 42
-
+# Tipos que skops pide declarar como confiables. Todos los modelos se crean en este proyecto.
+TIPOS_CONFIABLES = [
+    "numpy.dtype",
+    "sklearn.ensemble._hist_gradient_boosting.predictor.TreePredictor",
+    "sklearn.tree._tree.Tree",
+]
 
 def configurar_mlflow() -> None:
     mlflow.set_tracking_uri(TRACKING_URI)
@@ -190,7 +195,7 @@ def evaluar_y_registrar(estimador, nombre: str, familia: str, fase: str,
         firma = infer_signature(ejemplo, modelo.predict(ejemplo))
         mlflow.sklearn.log_model(
             modelo, name="modelo", signature=firma, input_example=ejemplo,
-            skops_trusted_types=["numpy.dtype", f"{clase.__module__}.{clase.__name__}"],
+            skops_trusted_types=TIPOS_CONFIABLES + [f"{clase.__module__}.{clase.__name__}"],
         )
 
     return run.info.run_id, cv
