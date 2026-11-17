@@ -1,0 +1,10 @@
+﻿snowflake-connector-python[pandas]
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jupyter
+scikit-learn
+mlflow==3.18.0
