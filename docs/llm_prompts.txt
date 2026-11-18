@@ -1,0 +1,1057 @@
+Eres analista de ventas de una cadena de droguerías en Alemania. Esta es la historia diaria de la tienda 80 en las últimas 8 semanas:
+2015-03-14 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=9175
+2015-03-15 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-16 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=11371
+2015-03-17 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7530
+2015-03-18 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=6954
+2015-03-19 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7679
+2015-03-20 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7778
+2015-03-21 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=9069
+2015-03-22 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-23 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6425
+2015-03-24 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5525
+2015-03-25 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5179
+2015-03-26 (jueves): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=6903
+2015-03-27 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=7159
+2015-03-28 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8228
+2015-03-29 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-30 (lunes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=11591
+2015-03-31 (martes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=9543
+2015-04-01 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=9600
+2015-04-02 (jueves): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=10957
+2015-04-03 (viernes): abierta=0, promo=1, feriado=1, vacaciones=1, ventas=0
+2015-04-04 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=10578
+2015-04-05 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-06 (lunes): abierta=0, promo=0, feriado=1, vacaciones=1, ventas=0
+2015-04-07 (martes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=6831
+2015-04-08 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=5503
+2015-04-09 (jueves): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=6261
+2015-04-10 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=6603
+2015-04-11 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8632
+2015-04-12 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-13 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=10594
+2015-04-14 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8929
+2015-04-15 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7396
+2015-04-16 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8623
+2015-04-17 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9733
+2015-04-18 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8000
+2015-04-19 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-20 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5922
+2015-04-21 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5182
+2015-04-22 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4707
+2015-04-23 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5506
+2015-04-24 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=7094
+2015-04-25 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8529
+2015-04-26 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-27 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=10745
+2015-04-28 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9118
+2015-04-29 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8476
+2015-04-30 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=11118
+2015-05-01 (viernes): abierta=0, promo=1, feriado=1, vacaciones=0, ventas=0
+2015-05-02 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=12046
+2015-05-03 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-05-04 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=10095
+2015-05-05 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8175
+2015-05-06 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7102
+2015-05-07 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8133
+2015-05-08 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8682
+
+Pronostica las ventas diarias de los próximos 42 días, con este calendario conocido:
+2015-05-09 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-10 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-11 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-12 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-13 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-14 (jueves): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-15 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-16 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-17 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-18 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-19 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-20 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-21 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-22 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-23 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-24 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-25 (lunes): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-26 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-27 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-28 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-29 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-30 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-31 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-01 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-02 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-03 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-04 (jueves): abierta=0, promo=1, feriado=1, vacaciones=0
+2015-06-05 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-06 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-07 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-08 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-09 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-10 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-11 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-12 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-13 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-14 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-15 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-16 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-17 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-18 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-19 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+
+Responde SOLO con una línea JSON, sin texto adicional, con este formato exacto: {"tienda": 80, "ventas": [42 números, uno por día en el mismo orden; 0 si la tienda está cerrada]}
+
+================================================================================
+
+Eres analista de ventas de una cadena de droguerías en Alemania. Esta es la historia diaria de la tienda 83 en las últimas 8 semanas:
+2015-03-14 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3444
+2015-03-15 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-16 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=6166
+2015-03-17 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4661
+2015-03-18 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4029
+2015-03-19 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4124
+2015-03-20 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4102
+2015-03-21 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2823
+2015-03-22 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-23 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4271
+2015-03-24 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3316
+2015-03-25 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3361
+2015-03-26 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3619
+2015-03-27 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4097
+2015-03-28 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3125
+2015-03-29 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-30 (lunes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=5646
+2015-03-31 (martes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=4624
+2015-04-01 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=4962
+2015-04-02 (jueves): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=5806
+2015-04-03 (viernes): abierta=0, promo=1, feriado=1, vacaciones=1, ventas=0
+2015-04-04 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4178
+2015-04-05 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-06 (lunes): abierta=0, promo=0, feriado=1, vacaciones=1, ventas=0
+2015-04-07 (martes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=3558
+2015-04-08 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=3473
+2015-04-09 (jueves): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=3264
+2015-04-10 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=3436
+2015-04-11 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3049
+2015-04-12 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-13 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5709
+2015-04-14 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4202
+2015-04-15 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=3952
+2015-04-16 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=3774
+2015-04-17 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4980
+2015-04-18 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3217
+2015-04-19 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-20 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3517
+2015-04-21 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3451
+2015-04-22 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3520
+2015-04-23 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2899
+2015-04-24 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3579
+2015-04-25 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3393
+2015-04-26 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-27 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5217
+2015-04-28 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4871
+2015-04-29 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4672
+2015-04-30 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4607
+2015-05-01 (viernes): abierta=0, promo=1, feriado=1, vacaciones=0, ventas=0
+2015-05-02 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4353
+2015-05-03 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-05-04 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5182
+2015-05-05 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4353
+2015-05-06 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4380
+2015-05-07 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4566
+2015-05-08 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4065
+
+Pronostica las ventas diarias de los próximos 42 días, con este calendario conocido:
+2015-05-09 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-10 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-11 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-12 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-13 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-14 (jueves): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-15 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-16 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-17 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-18 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-19 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-20 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-21 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-22 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-23 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-24 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-25 (lunes): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-26 (martes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-27 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-28 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-29 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-30 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-31 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-01 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-02 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-03 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-04 (jueves): abierta=0, promo=1, feriado=1, vacaciones=0
+2015-06-05 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-06 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-07 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-08 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-09 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-10 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-11 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-12 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-13 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-14 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-15 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-16 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-17 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-18 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-19 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+
+Responde SOLO con una línea JSON, sin texto adicional, con este formato exacto: {"tienda": 83, "ventas": [42 números, uno por día en el mismo orden; 0 si la tienda está cerrada]}
+
+================================================================================
+
+Eres analista de ventas de una cadena de droguerías en Alemania. Esta es la historia diaria de la tienda 91 en las últimas 8 semanas:
+2015-03-14 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3570
+2015-03-15 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-16 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=6682
+2015-03-17 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5253
+2015-03-18 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5346
+2015-03-19 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4893
+2015-03-20 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5253
+2015-03-21 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4202
+2015-03-22 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-23 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3702
+2015-03-24 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4166
+2015-03-25 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3575
+2015-03-26 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3905
+2015-03-27 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4165
+2015-03-28 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4329
+2015-03-29 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-30 (lunes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=7792
+2015-03-31 (martes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=8573
+2015-04-01 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=6157
+2015-04-02 (jueves): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=5974
+2015-04-03 (viernes): abierta=0, promo=1, feriado=1, vacaciones=1, ventas=0
+2015-04-04 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5029
+2015-04-05 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-06 (lunes): abierta=0, promo=0, feriado=1, vacaciones=1, ventas=0
+2015-04-07 (martes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=5408
+2015-04-08 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=3964
+2015-04-09 (jueves): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=3876
+2015-04-10 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=3992
+2015-04-11 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4216
+2015-04-12 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-13 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5902
+2015-04-14 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5020
+2015-04-15 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5097
+2015-04-16 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4921
+2015-04-17 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4917
+2015-04-18 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3672
+2015-04-19 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-20 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3230
+2015-04-21 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3568
+2015-04-22 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3693
+2015-04-23 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3453
+2015-04-24 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3109
+2015-04-25 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3639
+2015-04-26 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-27 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=6731
+2015-04-28 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5258
+2015-04-29 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5904
+2015-04-30 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7024
+2015-05-01 (viernes): abierta=0, promo=1, feriado=1, vacaciones=0, ventas=0
+2015-05-02 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6004
+2015-05-03 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-05-04 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=6880
+2015-05-05 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5581
+2015-05-06 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5059
+2015-05-07 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5154
+2015-05-08 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5591
+
+Pronostica las ventas diarias de los próximos 42 días, con este calendario conocido:
+2015-05-09 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-10 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-11 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-12 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-13 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-14 (jueves): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-15 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-16 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-17 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-18 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-19 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-20 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-21 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-22 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-23 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-24 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-25 (lunes): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-26 (martes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-27 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-28 (jueves): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-29 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-30 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-31 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-01 (lunes): abierta=1, promo=1, feriado=0, vacaciones=1
+2015-06-02 (martes): abierta=1, promo=1, feriado=0, vacaciones=1
+2015-06-03 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=1
+2015-06-04 (jueves): abierta=0, promo=1, feriado=1, vacaciones=1
+2015-06-05 (viernes): abierta=1, promo=1, feriado=0, vacaciones=1
+2015-06-06 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-07 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-08 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-09 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-10 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-11 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-12 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-13 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-14 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-15 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-16 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-17 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-18 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-19 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+
+Responde SOLO con una línea JSON, sin texto adicional, con este formato exacto: {"tienda": 91, "ventas": [42 números, uno por día en el mismo orden; 0 si la tienda está cerrada]}
+
+================================================================================
+
+Eres analista de ventas de una cadena de droguerías en Alemania. Esta es la historia diaria de la tienda 211 en las últimas 8 semanas:
+2015-03-14 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=9500
+2015-03-15 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-16 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=21092
+2015-03-17 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=16795
+2015-03-18 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=15686
+2015-03-19 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=15240
+2015-03-20 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=15571
+2015-03-21 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=9204
+2015-03-22 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-23 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=13610
+2015-03-24 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=11754
+2015-03-25 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=11332
+2015-03-26 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=11406
+2015-03-27 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=11976
+2015-03-28 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=10244
+2015-03-29 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-30 (lunes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=18313
+2015-03-31 (martes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=16580
+2015-04-01 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=19317
+2015-04-02 (jueves): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=17911
+2015-04-03 (viernes): abierta=0, promo=1, feriado=1, vacaciones=1, ventas=0
+2015-04-04 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=12938
+2015-04-05 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-06 (lunes): abierta=0, promo=0, feriado=1, vacaciones=1, ventas=0
+2015-04-07 (martes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=14315
+2015-04-08 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=11117
+2015-04-09 (jueves): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=12874
+2015-04-10 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=10754
+2015-04-11 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8005
+2015-04-12 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-13 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=18553
+2015-04-14 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=17660
+2015-04-15 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=14093
+2015-04-16 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=16066
+2015-04-17 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=14122
+2015-04-18 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=9480
+2015-04-19 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-20 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=12355
+2015-04-21 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=11421
+2015-04-22 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=11415
+2015-04-23 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=10852
+2015-04-24 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=10294
+2015-04-25 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8307
+2015-04-26 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-27 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=17515
+2015-04-28 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=16970
+2015-04-29 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=14988
+2015-04-30 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=17784
+2015-05-01 (viernes): abierta=0, promo=1, feriado=1, vacaciones=0, ventas=0
+2015-05-02 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=12126
+2015-05-03 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-05-04 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=19400
+2015-05-05 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=15870
+2015-05-06 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=14928
+2015-05-07 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=14520
+2015-05-08 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=15491
+
+Pronostica las ventas diarias de los próximos 42 días, con este calendario conocido:
+2015-05-09 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-10 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-11 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-12 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-13 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-14 (jueves): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-15 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-16 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-17 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-18 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-19 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-20 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-21 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-22 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-23 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-24 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-25 (lunes): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-26 (martes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-27 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-28 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-29 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-30 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-31 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-01 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-02 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-03 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-04 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-05 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-06 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-07 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-08 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-09 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-10 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-11 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-12 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-13 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-14 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-15 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-16 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-17 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-18 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-19 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+
+Responde SOLO con una línea JSON, sin texto adicional, con este formato exacto: {"tienda": 211, "ventas": [42 números, uno por día en el mismo orden; 0 si la tienda está cerrada]}
+
+================================================================================
+
+Eres analista de ventas de una cadena de droguerías en Alemania. Esta es la historia diaria de la tienda 474 en las últimas 8 semanas:
+2015-03-14 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5327
+2015-03-15 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-16 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=11130
+2015-03-17 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8723
+2015-03-18 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8155
+2015-03-19 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7547
+2015-03-20 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7990
+2015-03-21 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5198
+2015-03-22 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-23 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6338
+2015-03-24 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6204
+2015-03-25 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6055
+2015-03-26 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6229
+2015-03-27 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6494
+2015-03-28 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4861
+2015-03-29 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-30 (lunes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=12500
+2015-03-31 (martes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=11465
+2015-04-01 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=11984
+2015-04-02 (jueves): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=10189
+2015-04-03 (viernes): abierta=0, promo=1, feriado=1, vacaciones=1, ventas=0
+2015-04-04 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8098
+2015-04-05 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-06 (lunes): abierta=0, promo=0, feriado=1, vacaciones=1, ventas=0
+2015-04-07 (martes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=7773
+2015-04-08 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=7485
+2015-04-09 (jueves): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=5927
+2015-04-10 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=6283
+2015-04-11 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4614
+2015-04-12 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-13 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=11601
+2015-04-14 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9333
+2015-04-15 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8168
+2015-04-16 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9231
+2015-04-17 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8706
+2015-04-18 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5166
+2015-04-19 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-20 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6052
+2015-04-21 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5917
+2015-04-22 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=7189
+2015-04-23 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6142
+2015-04-24 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5899
+2015-04-25 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4581
+2015-04-26 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-27 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=11112
+2015-04-28 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9342
+2015-04-29 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9087
+2015-04-30 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=11316
+2015-05-01 (viernes): abierta=0, promo=1, feriado=1, vacaciones=0, ventas=0
+2015-05-02 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6819
+2015-05-03 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-05-04 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=11534
+2015-05-05 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9857
+2015-05-06 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9264
+2015-05-07 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8646
+2015-05-08 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9404
+
+Pronostica las ventas diarias de los próximos 42 días, con este calendario conocido:
+2015-05-09 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-10 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-11 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-12 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-13 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-14 (jueves): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-15 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-16 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-17 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-18 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-19 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-20 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-21 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-22 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-23 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-24 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-25 (lunes): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-26 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-27 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-28 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-29 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-30 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-31 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-01 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-02 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-03 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-04 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-05 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-06 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-07 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-08 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-09 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-10 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-11 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-12 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-13 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-14 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-15 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-16 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-17 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-18 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-19 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+
+Responde SOLO con una línea JSON, sin texto adicional, con este formato exacto: {"tienda": 474, "ventas": [42 números, uno por día en el mismo orden; 0 si la tienda está cerrada]}
+
+================================================================================
+
+Eres analista de ventas de una cadena de droguerías en Alemania. Esta es la historia diaria de la tienda 480 en las últimas 8 semanas:
+2015-03-14 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2618
+2015-03-15 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-16 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7677
+2015-03-17 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=6335
+2015-03-18 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5859
+2015-03-19 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5437
+2015-03-20 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5376
+2015-03-21 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2404
+2015-03-22 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-23 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5314
+2015-03-24 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4108
+2015-03-25 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4573
+2015-03-26 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4479
+2015-03-27 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4234
+2015-03-28 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2757
+2015-03-29 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-30 (lunes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=7390
+2015-03-31 (martes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=7296
+2015-04-01 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=7852
+2015-04-02 (jueves): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=7788
+2015-04-03 (viernes): abierta=0, promo=1, feriado=1, vacaciones=1, ventas=0
+2015-04-04 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4012
+2015-04-05 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-06 (lunes): abierta=0, promo=0, feriado=1, vacaciones=1, ventas=0
+2015-04-07 (martes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=5579
+2015-04-08 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=4900
+2015-04-09 (jueves): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=5009
+2015-04-10 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=4159
+2015-04-11 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2517
+2015-04-12 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-13 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7827
+2015-04-14 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5768
+2015-04-15 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5778
+2015-04-16 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5735
+2015-04-17 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5668
+2015-04-18 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2387
+2015-04-19 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-20 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5330
+2015-04-21 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4174
+2015-04-22 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3730
+2015-04-23 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4033
+2015-04-24 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4024
+2015-04-25 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2612
+2015-04-26 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-27 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7289
+2015-04-28 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=6601
+2015-04-29 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=6613
+2015-04-30 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=6841
+2015-05-01 (viernes): abierta=0, promo=1, feriado=1, vacaciones=0, ventas=0
+2015-05-02 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3339
+2015-05-03 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-05-04 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7835
+2015-05-05 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5669
+2015-05-06 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5792
+2015-05-07 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5898
+2015-05-08 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5316
+
+Pronostica las ventas diarias de los próximos 42 días, con este calendario conocido:
+2015-05-09 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-10 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-11 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-12 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-13 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-14 (jueves): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-15 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-16 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-17 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-18 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-19 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-20 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-21 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-22 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-23 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-24 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-25 (lunes): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-26 (martes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-27 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-28 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-29 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-30 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-31 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-01 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-02 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-03 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-04 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-05 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-06 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-07 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-08 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-09 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-10 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-11 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-12 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-13 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-14 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-15 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-16 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-17 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-18 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-19 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+
+Responde SOLO con una línea JSON, sin texto adicional, con este formato exacto: {"tienda": 480, "ventas": [42 números, uno por día en el mismo orden; 0 si la tienda está cerrada]}
+
+================================================================================
+
+Eres analista de ventas de una cadena de droguerías en Alemania. Esta es la historia diaria de la tienda 726 en las últimas 8 semanas:
+2015-03-14 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6841
+2015-03-15 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-16 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=17868
+2015-03-17 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=14528
+2015-03-18 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=12479
+2015-03-19 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=11539
+2015-03-20 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=12387
+2015-03-21 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6552
+2015-03-22 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-23 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=9860
+2015-03-24 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=9925
+2015-03-25 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8589
+2015-03-26 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=9093
+2015-03-27 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=9965
+2015-03-28 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6872
+2015-03-29 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-30 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=20554
+2015-03-31 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=19802
+2015-04-01 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=20360
+2015-04-02 (jueves): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=18310
+2015-04-03 (viernes): abierta=0, promo=1, feriado=1, vacaciones=1, ventas=0
+2015-04-04 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=12582
+2015-04-05 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-06 (lunes): abierta=0, promo=0, feriado=1, vacaciones=1, ventas=0
+2015-04-07 (martes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=10798
+2015-04-08 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=9162
+2015-04-09 (jueves): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=9071
+2015-04-10 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=8786
+2015-04-11 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5812
+2015-04-12 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-13 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=16536
+2015-04-14 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=14690
+2015-04-15 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=12296
+2015-04-16 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=11900
+2015-04-17 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=11785
+2015-04-18 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5646
+2015-04-19 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-20 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8560
+2015-04-21 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8625
+2015-04-22 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8674
+2015-04-23 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8417
+2015-04-24 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8449
+2015-04-25 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5372
+2015-04-26 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-27 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=14763
+2015-04-28 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=13771
+2015-04-29 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=14518
+2015-04-30 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=16019
+2015-05-01 (viernes): abierta=0, promo=1, feriado=1, vacaciones=0, ventas=0
+2015-05-02 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=8094
+2015-05-03 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-05-04 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=16902
+2015-05-05 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=14119
+2015-05-06 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=13465
+2015-05-07 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=12057
+2015-05-08 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=11840
+
+Pronostica las ventas diarias de los próximos 42 días, con este calendario conocido:
+2015-05-09 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-10 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-11 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-12 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-13 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-14 (jueves): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-15 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-16 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-17 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-18 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-19 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-20 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-21 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-22 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-23 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-24 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-25 (lunes): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-26 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-27 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-28 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-29 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-30 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-31 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-01 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-02 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-03 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-04 (jueves): abierta=1, promo=1, feriado=1, vacaciones=0
+2015-06-05 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-06 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-07 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-08 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-09 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-10 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-11 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-12 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-13 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-14 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-15 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-16 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-17 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-18 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-19 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+
+Responde SOLO con una línea JSON, sin texto adicional, con este formato exacto: {"tienda": 726, "ventas": [42 números, uno por día en el mismo orden; 0 si la tienda está cerrada]}
+
+================================================================================
+
+Eres analista de ventas de una cadena de droguerías en Alemania. Esta es la historia diaria de la tienda 780 en las últimas 8 semanas:
+2015-03-14 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3126
+2015-03-15 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-16 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=10463
+2015-03-17 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9455
+2015-03-18 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=6900
+2015-03-19 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7689
+2015-03-20 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=6789
+2015-03-21 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2749
+2015-03-22 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-23 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5925
+2015-03-24 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6520
+2015-03-25 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5036
+2015-03-26 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6038
+2015-03-27 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5290
+2015-03-28 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2609
+2015-03-29 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-30 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=12464
+2015-03-31 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=12093
+2015-04-01 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=10957
+2015-04-02 (jueves): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=10537
+2015-04-03 (viernes): abierta=0, promo=1, feriado=1, vacaciones=1, ventas=0
+2015-04-04 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4378
+2015-04-05 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-06 (lunes): abierta=0, promo=0, feriado=1, vacaciones=1, ventas=0
+2015-04-07 (martes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=7654
+2015-04-08 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=5413
+2015-04-09 (jueves): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=6566
+2015-04-10 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=5286
+2015-04-11 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2444
+2015-04-12 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-13 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=10291
+2015-04-14 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=10425
+2015-04-15 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7011
+2015-04-16 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8630
+2015-04-17 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7124
+2015-04-18 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2487
+2015-04-19 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-20 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5363
+2015-04-21 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5742
+2015-04-22 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4697
+2015-04-23 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5809
+2015-04-24 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5027
+2015-04-25 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2553
+2015-04-26 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-27 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9605
+2015-04-28 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8644
+2015-04-29 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8172
+2015-04-30 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9732
+2015-05-01 (viernes): abierta=0, promo=1, feriado=1, vacaciones=0, ventas=0
+2015-05-02 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4040
+2015-05-03 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-05-04 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=10668
+2015-05-05 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9489
+2015-05-06 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7403
+2015-05-07 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8718
+2015-05-08 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7622
+
+Pronostica las ventas diarias de los próximos 42 días, con este calendario conocido:
+2015-05-09 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-10 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-11 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-12 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-13 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-14 (jueves): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-15 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-16 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-17 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-18 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-19 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-20 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-21 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-22 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-23 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-24 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-25 (lunes): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-26 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-27 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-28 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-29 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-30 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-31 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-01 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-02 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-03 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-04 (jueves): abierta=1, promo=1, feriado=1, vacaciones=0
+2015-06-05 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-06 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-07 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-08 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-09 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-10 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-11 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-12 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-13 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-14 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-15 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-16 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-17 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-18 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-19 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+
+Responde SOLO con una línea JSON, sin texto adicional, con este formato exacto: {"tienda": 780, "ventas": [42 números, uno por día en el mismo orden; 0 si la tienda está cerrada]}
+
+================================================================================
+
+Eres analista de ventas de una cadena de droguerías en Alemania. Esta es la historia diaria de la tienda 860 en las últimas 8 semanas:
+2015-03-14 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6077
+2015-03-15 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-16 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7641
+2015-03-17 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7590
+2015-03-18 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5561
+2015-03-19 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5937
+2015-03-20 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7281
+2015-03-21 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6560
+2015-03-22 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-23 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4517
+2015-03-24 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4393
+2015-03-25 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4253
+2015-03-26 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4849
+2015-03-27 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5519
+2015-03-28 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6504
+2015-03-29 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-30 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8481
+2015-03-31 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=9371
+2015-04-01 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=10022
+2015-04-02 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=10435
+2015-04-03 (viernes): abierta=0, promo=1, feriado=1, vacaciones=0, ventas=0
+2015-04-04 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=10230
+2015-04-05 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-06 (lunes): abierta=0, promo=0, feriado=1, vacaciones=0, ventas=0
+2015-04-07 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6178
+2015-04-08 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5160
+2015-04-09 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4807
+2015-04-10 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5477
+2015-04-11 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6138
+2015-04-12 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-13 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8416
+2015-04-14 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7465
+2015-04-15 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5867
+2015-04-16 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=6157
+2015-04-17 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7059
+2015-04-18 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6109
+2015-04-19 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-20 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5277
+2015-04-21 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4538
+2015-04-22 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4307
+2015-04-23 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3910
+2015-04-24 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=5281
+2015-04-25 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=6281
+2015-04-26 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-27 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7928
+2015-04-28 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7691
+2015-04-29 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=7225
+2015-04-30 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=10039
+2015-05-01 (viernes): abierta=0, promo=1, feriado=1, vacaciones=0, ventas=0
+2015-05-02 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=9321
+2015-05-03 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-05-04 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8128
+2015-05-05 (martes): abierta=0, promo=1, feriado=0, vacaciones=0, ventas=0
+2015-05-06 (miércoles): abierta=0, promo=1, feriado=0, vacaciones=0, ventas=0
+2015-05-07 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8371
+2015-05-08 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=8308
+
+Pronostica las ventas diarias de los próximos 42 días, con este calendario conocido:
+2015-05-09 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-10 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-11 (lunes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-12 (martes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-13 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-14 (jueves): abierta=0, promo=0, feriado=1, vacaciones=1
+2015-05-15 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-16 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-17 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-18 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-19 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-20 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-21 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-22 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-23 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-24 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-25 (lunes): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-26 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-27 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-28 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-29 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-30 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-31 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-01 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-02 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-03 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-04 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-05 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-06 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-07 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-08 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-09 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-10 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-11 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-12 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-13 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-14 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-15 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-16 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-17 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-18 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-19 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+
+Responde SOLO con una línea JSON, sin texto adicional, con este formato exacto: {"tienda": 860, "ventas": [42 números, uno por día en el mismo orden; 0 si la tienda está cerrada]}
+
+================================================================================
+
+Eres analista de ventas de una cadena de droguerías en Alemania. Esta es la historia diaria de la tienda 958 en las últimas 8 semanas:
+2015-03-14 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3338
+2015-03-15 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-16 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5097
+2015-03-17 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4536
+2015-03-18 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=3873
+2015-03-19 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4089
+2015-03-20 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=3968
+2015-03-21 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2869
+2015-03-22 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-23 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=4137
+2015-03-24 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3652
+2015-03-25 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3687
+2015-03-26 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3463
+2015-03-27 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3780
+2015-03-28 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2938
+2015-03-29 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-03-30 (lunes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=5866
+2015-03-31 (martes): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=4994
+2015-04-01 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=5494
+2015-04-02 (jueves): abierta=1, promo=1, feriado=0, vacaciones=1, ventas=5330
+2015-04-03 (viernes): abierta=0, promo=1, feriado=1, vacaciones=1, ventas=0
+2015-04-04 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3769
+2015-04-05 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-06 (lunes): abierta=0, promo=0, feriado=1, vacaciones=1, ventas=0
+2015-04-07 (martes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=4246
+2015-04-08 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=3883
+2015-04-09 (jueves): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=3838
+2015-04-10 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1, ventas=3828
+2015-04-11 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3092
+2015-04-12 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-13 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4605
+2015-04-14 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4700
+2015-04-15 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4268
+2015-04-16 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4221
+2015-04-17 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4016
+2015-04-18 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=2858
+2015-04-19 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-20 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3745
+2015-04-21 (martes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3632
+2015-04-22 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3346
+2015-04-23 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3672
+2015-04-24 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3574
+2015-04-25 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3066
+2015-04-26 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-04-27 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5199
+2015-04-28 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4275
+2015-04-29 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4535
+2015-04-30 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5142
+2015-05-01 (viernes): abierta=0, promo=1, feriado=1, vacaciones=0, ventas=0
+2015-05-02 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0, ventas=3471
+2015-05-03 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0, ventas=0
+2015-05-04 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=5482
+2015-05-05 (martes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4884
+2015-05-06 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4340
+2015-05-07 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4278
+2015-05-08 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0, ventas=4490
+
+Pronostica las ventas diarias de los próximos 42 días, con este calendario conocido:
+2015-05-09 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-10 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-11 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-12 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-13 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-14 (jueves): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-15 (viernes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-16 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-17 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-18 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-19 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-20 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-21 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-22 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-05-23 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-24 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-05-25 (lunes): abierta=0, promo=0, feriado=1, vacaciones=0
+2015-05-26 (martes): abierta=1, promo=0, feriado=0, vacaciones=1
+2015-05-27 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-28 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-29 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-30 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-05-31 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-01 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-02 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-03 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-04 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-05 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-06 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-07 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-08 (lunes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-09 (martes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-10 (miércoles): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-11 (jueves): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-12 (viernes): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-13 (sábado): abierta=1, promo=0, feriado=0, vacaciones=0
+2015-06-14 (domingo): abierta=0, promo=0, feriado=0, vacaciones=0
+2015-06-15 (lunes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-16 (martes): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-17 (miércoles): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-18 (jueves): abierta=1, promo=1, feriado=0, vacaciones=0
+2015-06-19 (viernes): abierta=1, promo=1, feriado=0, vacaciones=0
+
+Responde SOLO con una línea JSON, sin texto adicional, con este formato exacto: {"tienda": 958, "ventas": [42 números, uno por día en el mismo orden; 0 si la tienda está cerrada]}
