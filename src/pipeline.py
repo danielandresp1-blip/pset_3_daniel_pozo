@@ -14,6 +14,8 @@ from sklearn.metrics import make_scorer
 from sklearn.model_selection import cross_validate
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import FunctionTransformer, OneHotEncoder, StandardScaler
+from sklearn.base import clone
+from sklearn.model_selection import ParameterSampler
 
 INICIO_PRUEBA = pd.Timestamp("2015-06-20")
 TARGET = "sales"
@@ -200,3 +202,53 @@ def evaluar_y_registrar(estimador, nombre: str, familia: str, fase: str,
         )
 
     return run.info.run_id, cv
+
+def tuning(estimador, espacio: dict, nombre: str, familia: str,
+           entrenamiento: pd.DataFrame, n_iter: int = 30):
+    """Búsqueda aleatoria: cada configuración es una corrida hija dentro de una corrida padre."""
+    X = entrenamiento[FEATURES]
+    y = entrenamiento[TARGET]
+    pliegues = pliegues_temporales(entrenamiento)
+    configs = list(ParameterSampler(espacio, n_iter=n_iter, random_state=SEMILLA))
+    datos = {
+        "semilla": SEMILLA,
+        "datos_tabla": TABLA_ORIGEN,
+        "datos_fecha_corte": str(entrenamiento["sales_date"].max().date()),
+        "datos_hash": hash_datos(X, y),
+    }
+    tags = {"fase": "tuning", "familia": familia, "git_commit": commit_git()}
+    filas = []
+
+    with mlflow.start_run(run_name=f"tuning_{nombre}"):
+        mlflow.set_tags(tags)
+        mlflow.log_params({**datos, "n_configuraciones": n_iter})
+
+        for i, params in enumerate(configs, 1):
+            modelo = crear_modelo(clone(estimador).set_params(**params))
+            inicio = time.time()
+            cv = cross_validate(modelo, X, y, cv=pliegues,
+                                scoring={"wape": wape_scorer, "costo": costo_scorer})
+            fila = {
+                "config": i, **params,
+                "wape_cv_media": -cv["test_wape"].mean(),
+                "wape_cv_std": cv["test_wape"].std(),
+                "costo_cv_media": -cv["test_costo"].mean(),
+                "segundos_cv": time.time() - inicio,
+            }
+            filas.append(fila)
+
+            with mlflow.start_run(run_name=f"{nombre}_config_{i:02d}", nested=True):
+                mlflow.set_tags(tags)
+                mlflow.log_params({**{f"modelo__{k}": v for k, v in params.items()}, **datos})
+                mlflow.log_metrics({k: fila[k] for k in
+                                    ["wape_cv_media", "wape_cv_std", "costo_cv_media", "segundos_cv"]})
+            print(f"{nombre} config {i}/{n_iter}: WAPE {fila['wape_cv_media']:.4f} | {fila['segundos_cv'] / 60:.1f} min")
+
+        tabla = pd.DataFrame(filas).sort_values("wape_cv_media")
+        mejor = configs[int(tabla.iloc[0]["config"]) - 1]
+        mlflow.log_params({f"mejor__{k}": v for k, v in mejor.items()})
+        mlflow.log_metrics({f"mejor_{k}": tabla.iloc[0][k] for k in
+                            ["wape_cv_media", "wape_cv_std", "costo_cv_media"]})
+        mlflow.log_text(tabla.to_csv(index=False), f"tuning_{nombre}.csv")
+
+    return tabla, mejor
